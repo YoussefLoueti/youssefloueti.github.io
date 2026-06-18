@@ -2,10 +2,12 @@
 Welcome to my project portfolio! Here I document my coding adventures, challenges, and solutions.
 
 <!-- LinkedIn badge script (paste the first script tag here, once) -->
+{% raw %}
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="youssef-louati" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/youssef-louati/en?trk=profile-badge">youssef louati</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="youssef-louati" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/youssef-louati/en?trk=profile-badge">youssef louati</a>
+</div>
+{% endraw %}       
 
 📂 Projects
 [--](https://github.com/YoussefLoueti/youssefloueti.github.io/blob/main/projects/ecommerce-dashboard.md)
